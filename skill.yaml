@@ -1,0 +1,5 @@
+name: "fake-phone-build"
+title: "假手机单文件网页输出流程"
+description: "从中泰双模板输出单文件手机模拟网页：改动、构建、测试、压图、交付与 GitHub Pages 发布全过程。"
+category: "Work and knowledge"
+include_in_prompt: false
